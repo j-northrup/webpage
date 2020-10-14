@@ -2,7 +2,7 @@
 authors:
 - bullington
 email: ""
-title: Grace Bulligton
+title: Grace Bullington
 organizations:
 - name: 
   url: ""
