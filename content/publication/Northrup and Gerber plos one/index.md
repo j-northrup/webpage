@@ -1,8 +1,8 @@
 ---
 abstract: Understanding patterns of species occurrence and the processes underlying these patterns is fundamental to the study of ecology. One of the more commonly used approaches to investigate species occurrence patterns is occupancy modeling, which can account for imperfect detection of a species during surveys. In recent years, there has been a proliferation of Bayesian modeling in ecology, which includes fitting Bayesian occupancy models. The Bayesian framework is appealing to ecologists for many reasons, including the ability to incorporate prior information through the specification of prior distributions on parameters. While ecologists almost exclusively intend to choose priors so that they are “uninformative” or “vague”, such priors can easily be unintentionally highly informative. Here we report on how the specification of a “vague” normally distributed (i.e., Gaussian) prior on coefficients in Bayesian occupancy models can unintentionally influence parameter estimation. Using both simulated data and empirical examples, we illustrate how this issue likely compromises inference about species-habitat relationships. While the extent to which these informative priors influence inference depends on the data set, researchers fitting Bayesian occupancy models should conduct sensitivity analyses to ensure intended inference, or employ less commonly used priors that are less informative (e.g., logistic or t prior distributions). We provide suggestions for addressing this issue in occupancy studies, and an online tool for exploring this issue under different contexts.
 authors:
-- Joseph M. Northrup
-- Brian D. Gerber
+- J. M. Northrup
+- B. D. Gerber
 date: "2018-02-26"
 doi: ""
 featured: false

@@ -1,12 +1,12 @@
 ---
 abstract: "Estimating heritability (h2) is required to predict the response to selection and is useful in species that are managed or farmed using trait information. Estimating h2 in free-ranging populations is challenging due to the need for pedigrees; genomic-relatedness matrices (GRMs) circumvent this need and can be implemented in nearly any system where phenotypic and genome-wide single-nucleotide polymorphism (SNP) data are available. We estimated the heritability of 5 body and 3 antler traits in a free-ranging population of white-tailed deer (Odocoileus virginianus) on Anticosti Island, Quebec, Canada. We generated classic and robust GRMs from >10,000 SNPs: hind foot length, dressed body mass, and peroneus muscle mass had high h2 values of 0.62, 0.44, and 0.55, respectively. Heritability in male-only antler features ranged from 0.07 to 0.33. We explored the influence of filtering by minor allele frequency and data completion on h2: GRMs derived from fewer SNPs had reduced h2 estimates and the relatedness coefficients significantly deviated from those generated with more SNPs. As a corollary, we discussed limitations to the application of GRMs in the wild, notably how skewed GRMs, specifically many unrelated individuals, can increase variance around h2 estimates. This is the first study to estimate h2 on a free-ranging population of white-tailed deer and should be informative for breeding designs and management as these traits could respond to selection."
 authors:
-- Aidan Jamieson
-- Spencer J. Anderson
-- Jeremie Fuller
-- Steeve D. Cote
-- Joseph M. Northrup
-- Aaron B. A. Shafer
+- A. Jamieson
+- S. J. Anderson
+- J. Fuller
+- S. D. Cote
+- J. M. Northrup
+- A. B. A. Shafer
 date: "2020-07-21"
 doi: ""
 featured: false

@@ -8,13 +8,13 @@ We collected year-round behavioural data of elk across a range of human disturba
 Conclusions/Significance
 In a human-dominated landscape, effects of human disturbance on elk behaviour exceed those of habitat and natural predators. Humans trigger increased vigilance and decreased foraging in elk. However, it is not just the number of people but also the type of human activity that influences elk behaviour (e.g. hiking vs. hunting). Quantifying the actual fitness costs of human disturbance remains a challenge in field studies but should be a primary focus for future researches. Some species are much more likely to be disturbed by humans than by non-human predators: for these species, quantifying human disturbance may be the highest priority for conservation."
 authors:
-- Simone Ciuti
-- Joseph M. Northrup
-- Tyler B. Muhly
-- Silvia Simi
-- Marco Musiani
-- Justin A. Pitt
-- Mark S. Boyce
+- S. Ciuti
+- J. M. Northrup
+- T. B. Muhly
+- S. Simi
+- M. Musiani
+- J. A. Pitt
+- M. S. Boyce
 date: "2012-11-28"
 doi: ""
 featured: false

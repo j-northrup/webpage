@@ -1,13 +1,13 @@
 ---
 abstract: "Autocorrelation has been viewed as a problem in telemetry studies because sequential observations are not independent in time or space, therefore violating assumptions for statistical inference. Yet nearly all ecological and behavioural data are autocorrelated in both space and time. We argue that there is much to learn about the structure of ecological and behavioural data from patterns of autocorrelation. Such patterns include periodicity in movement and patchiness in spatial data, which can be characterized by an autocorrelogram, semivariogram or spectrum. We illustrate the utility of temporal autocorrelation functions (ACFs) for analysing step-length data from GPS telemetry of wolves (Canis lupus), cougars (Puma concolor), grizzly bears (Ursus arctos) and elk (Cervus elaphus) in western Alberta. ACFs often differ by season, reflecting differences in foraging behaviour. In wilderness landscapes, step-length ACFs for predators decay slowly to apparently random patterns, but sometimes display strong daily rhythms in areas of human disturbance. In contrast, step lengths of elk are consistently periodic, reflecting crepuscular activity."
 authors:
-- Mark S. Boyce
-- Justin Pitt
-- Joseph M. Northrup
-- Andrea T. Morehouse
-- Kyle H. Knopff
-- Bogdan Cristescu
-- Gordon B. Stenhouse
+- M. S. Boyce
+- J. Pitt
+- J. M. Northrup
+- A. T. Morehouse
+- K. H. Knopff
+- B. Cristescu
+- G. B. Stenhouse
 date: "2010-07-27"
 doi: ""
 featured: false

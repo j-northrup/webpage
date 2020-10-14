@@ -1,17 +1,17 @@
 ---
 abstract: "Theory predicts that species requiring multiple habitat types simultaneously should have heightened sensitivity to anthropogenic pressures, yet tests of this prediction are especially rare. We tested whether breeding site occupancy of the threatened marbled murrelet (Brachyramphus marmoratus) was driven by the synergistic effects of nesting habitat loss in forests, and changing ocean conditions. We paired 70,700 murrelet surveys at 19,837 sites across 20 years from the Oregon Coast Range with annual data on the extent of old forest and biophysical ocean conditions. Dynamic occupancy models indicated that local murrelet colonization rates were strongly reduced during warm ocean conditions with low prey availability. Landscapes that contained more old forest and were closer to the ocean showed reduced rates of local extinction. Given predictions of accelerated ocean warming and increased global timber demand, our results suggest murrelets may continue to be imperiled by deterioration of the two habitats upon which they depend."
 authors:
-- Matthew G. Betts
-- Joseph M. Northrup
-- Jennifer A. Bailey Guerrero
-- Lindsay J. Adrian
-- S. Kim Nelson
-- Jennifer L. Fisher
-- Brian D. Gerber
-- Marie-Sophie Garcia-Heras
-- Zhiqiang Yang
-- Daniel D. Roby
-- James W. Rivers
+- M. G. Betts
+- J. M. Northrup
+- J. A. Bailey Guerrero
+- L. J. Adrian
+- S. K. Nelson
+- J. L. Fisher
+- B. D. Gerber
+- M. Garcia-Heras
+- Z. Yang
+- D. D. Roby
+- J. W. Rivers
 date: "2020-01-01"
 doi: ""
 featured: false

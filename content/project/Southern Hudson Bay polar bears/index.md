@@ -1,6 +1,9 @@
 ---
 date: "2016-04-27T00:00:00Z"
 external_link: ""
+authors:
+- northrup
+- ross
 image:
   caption: Photo by David McGeachy
   focal_point: Smart

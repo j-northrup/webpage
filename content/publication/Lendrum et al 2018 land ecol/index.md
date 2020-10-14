@@ -1,13 +1,13 @@
 ---
 abstract: Human-mediated landscape changes alter habitat configuration, which strongly structures animal distributions and interspecific interactions. The effects of anthropogenic disturbance on predator–prey relationships are fundamental to ecology, yet less well understood. We determined where predation events occurred for fawn and adult female mule deer from 2008 to 2014 in critical winter range with extensive energy development. We investigated the relationship between predation sites, energy infrastructure, and natural landscape features across contiguous areas experiencing different degrees of energy extraction during periods of high and low intensity development.Methods We contrast spatial correlates of 286 mortality locations with random landscape locations and mule deer distribution estimated from 350,000 GPS locations. We estimated predation risk with resource selection functions and latent selection difference functions.Results Relative to the distribution of mule deer, predation risk was lower closer to pipelines and well pads, but higher closer to roads. Predation sites occurred more than expected relative to availability and deer distribution in deeper snow and non-forested habitats. Anthropogenic features had a greater influence on predation sites during the period of low activity than high activity, and natural landscape characteristics had weaker effects relative to anthropogenic features throughout the study. Though canids accounted for the majority of predation events, felids exhibited stronger landscape associations, driving the observed spatial patterns in predation risk to mule deer.Conclusions The emergence of varied interactions between predation and landscape features across contexts and years highlights the complexity of interspecific interactions in highly modified landscapes.
 authors:
-- Patrick E. Lendrum
-- Joseph M. Northrup
-- Charles R. Anderson Jr.
-- Glen E. Liston
-- Cameron L. Aldridge
-- Kevin R. Crooks
-- George Wittemyer
+- P. E. Lendrum
+- J. M. Northrup
+- C. R. Anderson Jr.
+- G. E. Liston
+- C. L. Aldridge
+- K. R. Crooks
+- G. Wittemyer
 date: "2018-01-01"
 doi: ""
 featured: false
