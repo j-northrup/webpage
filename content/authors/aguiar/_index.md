@@ -1,7 +1,8 @@
 ---
 authors:
+- aguiar
 email: ""
-name: Fil Aguiar
+title: Fil Aguiar
 organizations:
 - name: 
   url: ""

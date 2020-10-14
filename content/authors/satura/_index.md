@@ -1,7 +1,7 @@
 ---
 authors:
 email: ""
-name: Abbygail Satura
+title: Abbygail Satura
 organizations:
 - name: 
   url: ""
@@ -18,7 +18,7 @@ social:
 #  link: https://scholar.google.ca/citations?user=Rd7jH7gAAAAJ
 superuser: false
 user_groups:
-- The team
+- Alumni
 ---
 
 Abby is a summer student focsued primarily on field and lab work associated with our [black bear population ecology project](/project/black-bear-population-ecology-in-ontario/). 

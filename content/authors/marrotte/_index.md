@@ -1,7 +1,7 @@
 ---
 authors:
 email: ""
-name: Robby Marrotte
+title: Robby Marrotte
 organizations:
 - name: 
   url: ""

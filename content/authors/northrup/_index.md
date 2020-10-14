@@ -1,7 +1,8 @@
 ---
 authors:
+- northrup
 email: ""
-name: Joe Northrup
+title: Joe Northrup
 organizations:
 - name: Adjunct Professor, Trent University
   url: ""

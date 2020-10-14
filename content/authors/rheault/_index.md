@@ -1,7 +1,7 @@
 ---
 authors:
 email: ""
-name: Helena Rheault
+title: Helena Rheault
 organizations:
 - name: 
   url: ""

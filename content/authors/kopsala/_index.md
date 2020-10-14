@@ -1,7 +1,7 @@
 ---
 authors:
 email: ""
-name: Evan Kopsala
+title: Evan Kopsala
 organizations:
 - name: 
   url: ""

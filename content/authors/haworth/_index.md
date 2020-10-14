@@ -1,7 +1,7 @@
 ---
 authors:
 email: ""
-name: Sarah Haworth
+title: Sarah Haworth
 organizations:
 - name: 
   url: ""

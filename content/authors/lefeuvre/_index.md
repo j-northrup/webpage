@@ -1,7 +1,7 @@
 ---
 authors:
 email: ""
-name: Shilah LeFeuvre
+title: Shilah LeFeuvre
 organizations:
 - name: 
   url: ""

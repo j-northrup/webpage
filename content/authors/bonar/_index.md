@@ -1,7 +1,8 @@
 ---
 authors:
+- aguiar
 email: ""
-name: Maegwin Bonar
+title: Maegwin Bonar
 organizations:
 - name: 
   url: ""
