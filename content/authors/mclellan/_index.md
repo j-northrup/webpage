@@ -26,4 +26,6 @@ user_groups:
 
 BSc (University of British Columbia)
 
+### About
 
+My research interests include using non-invasive methods to better understand the impacts of human activities on large mammal populations. Currently I am using non-invasive DNA sampling and spatial capture-recapture models to identify drivers of black bear density across Ontario. This work can inform sustainable management of black bears in the province and predict future impacts of climate and land-use changes on the species. Prior to starting graduate school, I received my BSc from the University of British Columbia where my undergraduate research focused on human-wildlife conflict and animal welfare. 
