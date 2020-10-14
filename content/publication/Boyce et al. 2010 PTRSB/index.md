@@ -8,7 +8,7 @@ authors:
 - Kyle H. Knopff
 - Bogdan Cristescu
 - Gordon B. Stenhouse
-date: "2010-27-07"
+date: "2010-07-27"
 doi: ""
 featured: false
 image:
@@ -20,7 +20,7 @@ publication: '*Philosophical Transactions of the Royal Society*'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2010-27-07"
+publishDate: "2010-07-27"
 slides: ""
 summary: We examined autocorrelation in movement patterns across multiple species, showing relatively consistent temporal patterning of behavior in elk, grizzly bears and grey wolves
 tags:
