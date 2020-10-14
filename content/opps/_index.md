@@ -57,7 +57,5 @@ ________________________________________________
 
 ## Opportunities
 
-**PhD on mule deer space-use and movement (2019 or 2020)**
-
-**PhD on black bear movements and population dynamics (2020)**
+**I will not be taking on any students for the coming year. Check back for opportunities**
 

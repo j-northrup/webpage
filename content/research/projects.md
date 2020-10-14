@@ -45,6 +45,18 @@ subtitle = "We work on a broad range of species and topics, ranging across numer
     name = "Climate change"
     tag = "Climate change"
 	
+  [[content.filter_button]]
+    name = "Large mammals"
+    tag = "Large mammals"
+	
+  [[content.filter_button]]
+    name = "Conservation biology"
+    tag = "Conservation biology"
+	
+  [[content.filter_button]]
+    name = "Combining genomics and ecology"
+    tag = "Combining genomics and ecology"
+	
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
@@ -53,7 +65,7 @@ subtitle = "We work on a broad range of species and topics, ranging across numer
   #   1 = List
   #   3 = Card
   #   5 = Showcase
-  view = 3
+  view = 1
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false

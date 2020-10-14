@@ -16,7 +16,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Proceedings of the National Academy of Sciences*: 116'
+publication: '*Proceedings of the National Academy of Sciences*'
 publication_short: ""
 publication_types:
 - "2"

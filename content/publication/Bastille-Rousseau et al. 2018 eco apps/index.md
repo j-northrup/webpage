@@ -14,7 +14,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Ecological Applications*: 28'
+publication: '*Ecological Applications*'
 publication_short: ""
 publication_types:
 - "2"

@@ -14,7 +14,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Journal of Wildlife Management*: 82'
+publication: '*Journal of Wildlife Management*'
 publication_short: ""
 publication_types:
 - "2"
