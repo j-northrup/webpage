@@ -45,20 +45,15 @@ subtitle = ""
  css_class = ""
 +++
 
-#### June 1, 2019
+#### October, 2020
 
-## Lab is NSERC funded!
+## Webpage is live!
 
-The lab is now funded through an NSERC discovery grant to Joe Northrup. 
 ___________________________
 
-#### May 15, 2019
+#### September, 2020
 
-## Congratulations to Helena on receiving the Ontario Graduate Scholarship!
-___________________________
+## Welcome, Brynn and Grace to the lab
 
-#### April 1, 2019
-
-## Congratulations to Sara on receiving the NSERC Canada Graduate Scholarship!
-
+Brynn McLellan and Grace Bullington have both joined the lab as MSc students. Check out what they are working on [here](people/). 
 ___________________________

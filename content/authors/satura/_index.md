@@ -21,4 +21,4 @@ user_groups:
 - Alumni
 ---
 
-Abby is a summer student focsued primarily on field and lab work associated with our [black bear population ecology project](/project/black-bear-population-ecology-in-ontario/). 
+Abby worked with us as a summer studnet in 2019 and 2020 focsued primarily on field and lab work associated with our [black bear population ecology project](/project/black-bear-population-ecology-in-ontario/). 

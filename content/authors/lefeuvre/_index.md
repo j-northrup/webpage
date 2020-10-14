@@ -5,7 +5,7 @@ title: Shilah LeFeuvre
 organizations:
 - name: 
   url: ""
-role: Summer student
+role: BSc honours student
 social:
 - icon: envelope
   icon_pack: fas

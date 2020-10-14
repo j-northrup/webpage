@@ -2,7 +2,7 @@
 date: "2016-04-27T00:00:00Z"
 external_link: ""
 image:
-  caption: Photo by Marty Obbard
+  caption: Photo by David McGeachy
   focal_point: Smart
 links:
 #- icon: twitter
@@ -23,4 +23,4 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
-Write stuff here
+Under construction

@@ -22,6 +22,4 @@ user_groups:
 - Alumni
 ---
 
-My interests are in large ungulates and large freshwater fish species.
-I worked on population reconstruction of white-tailed deer in Ontario using age-at-harvest hunter data for my BSc honours project.
-I'm currently working as a fisheries research technician at the Department of Fisheries and Oceans Canada.
+Fil completed his undergraduate honours thesis with the lab in 2018, using population reconstruction to understand white-tailed deer populations in Ontario.
