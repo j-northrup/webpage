@@ -4,6 +4,7 @@ external_link: ""
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
+profile: false
 links:
 #- icon: twitter
 #  icon_pack: fab
@@ -23,3 +24,19 @@ url_slides: ""
 url_video: ""
 ---
 Under construction
+
+## Team members involed in this project
+
+{{% mention "mclellan" %}}
+<br>
+{{% mention "bullington" %}}
+<br>
+{{% mention "rheault" %}}
+<br>
+{{% mention "northrup" %}}
+<br>
+{{% mention "bonar" %}}
+<br>
+{{% mention "marrotte" %}}
+<br>
+{{% mention "ross" %}}

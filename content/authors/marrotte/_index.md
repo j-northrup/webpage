@@ -18,7 +18,7 @@ social:
   link: https://scholar.google.ca/citations?user=qwbekCMAAAAJ&hl=en
 superuser: false
 user_groups:
-- The team
+- The Team
 ---
 
 My research focus is on determining whether black bear movement is influenced by landscape features using spatial capture-recapture models. [Webpage](https://robbymarrotte.weebly.com/)

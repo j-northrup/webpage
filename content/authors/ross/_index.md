@@ -19,5 +19,5 @@ social:
 #  link: https://scholar.google.ca/citations?user=Rd7jH7gAAAAJ
 superuser: false
 user_groups:
-- The team
+- The Team
 ---

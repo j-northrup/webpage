@@ -2,8 +2,7 @@
 date: "2016-04-27T00:00:00Z"
 external_link: ""
 authors:
-- northrup
-- ross
+profile: false
 image:
   caption: Photo by David McGeachy
   focal_point: Smart
@@ -27,3 +26,10 @@ url_slides: ""
 url_video: ""
 ---
 Under construction
+
+
+## Team members involed in this project
+
+{{% mention "northrup" %}}
+<br>
+{{% mention "ross" %}}

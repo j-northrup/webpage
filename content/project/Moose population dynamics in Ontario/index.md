@@ -4,6 +4,7 @@ external_link: ""
 image:
   caption: 
   focal_point: Smart
+profile: false
 links:
 #- icon: twitter
 #  icon_pack: fab
