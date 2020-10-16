@@ -4,7 +4,7 @@ external_link: ""
 authors:
 profile: false
 image:
-  caption: Photo by David McGeachy
+  caption: David McGeachy
   focal_point: Smart
 links:
 #- icon: twitter
