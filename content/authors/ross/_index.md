@@ -6,7 +6,7 @@ title: Tyler Ross
 organizations:
 - name: 
   url: ""
-role: PhD student
+role: PhD candidate (York University)
 social:
 - icon: envelope
   icon_pack: fas
@@ -21,3 +21,14 @@ superuser: false
 user_groups:
 - The Team
 ---
+
+### Education
+BA (University of Ottawa)
+
+BSc (Carleton University)
+
+MSc (York University)
+
+### About
+
+Tyler is studying the movements and habitat selection of polar bears in Southern Hudson Bay and James Bay. Using location data collected from GPS-collared bears, he is examining the terrestrial and on-ice movement of polar bears in relation to environmental conditions, including snow and sea-ice characteristics. He is also looking at the distribution of polar bear denning habitat along the coast of northern Ontario, and exploring how changing sea-ice conditions may be impacting polar bear diets and reproduction. Co-supervised with (Dr. Greg Thiemann) [https://biology.gradstudies.yorku.ca/faculty/g-thiemann/] at York University. 

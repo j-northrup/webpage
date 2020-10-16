@@ -5,7 +5,7 @@ title: Helena Rheault
 organizations:
 - name: 
   url: ""
-role: PhD student
+role: PhD candidate
 social:
 - icon: envelope
   icon_pack: fas

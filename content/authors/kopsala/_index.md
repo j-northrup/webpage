@@ -20,4 +20,4 @@ superuser: false
 user_groups:
 - The Team
 ---
-My research interests revolve around wildlife genetics, specifically population genetics. Currently, I am using a pooled sequencing approach to study the functional genetic landscape of black bears (*Ursus americanus*) within Ontario as it relates to different forest regions and climate zones. Co-supervised with Chris Kyle. 
+My research revolves around the use of DNA to study wildlife populations. Presently, I am studying black bears within Ontario. The goals of my current research are twofold: (1) - to determine whether existing genetic structure within the Ontario black bear population has a functional component, and (2) - to assess gene flow directionality in different areas of Ontario, and what drives this process. Co-supervised with Dr. Christoper Kyle. 
