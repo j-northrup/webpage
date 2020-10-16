@@ -21,3 +21,4 @@ superuser: false
 user_groups:
 - The Team
 ---
+My research interests include behavior and population ecology. My current research focuses on black bear reproduction. I am applying cementum reading techniques to bear teeth to obtain data on age at first reproduction. The goal of this research is to identify environmental and anthropogenic factors affecting the age at first reproduction of black bears in Ontario.
