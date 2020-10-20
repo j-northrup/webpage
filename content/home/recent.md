@@ -45,6 +45,14 @@ subtitle = ""
  css_class = ""
 +++
 
+#### October 19, 2020
+
+## Congratulations to Sarah Haworth on an excellent MSc defense!
+
+Sarah successfully defended her MSc thesis! Find out more about her research [here](author/sarah-haworth/)
+___________________________
+
+
 #### October, 2020
 
 ## Webpage is live!
