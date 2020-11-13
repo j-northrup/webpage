@@ -47,7 +47,7 @@ subtitle = ""
 
 #### November 13, 2020
 
-## I am looking for a PhD student to start this coming January working on white-tailed deer movement and social structure see [here]("files/WTD PhD ad Fall 2020.pdf")
+## I am looking for a PhD student to start this coming January working on white-tailed deer movement and social structure see [here](/files/WTD PhD ad Fall 2020.pdf)
 
 
 #### October 19, 2020
