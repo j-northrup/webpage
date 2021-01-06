@@ -5,7 +5,7 @@ title: Kathryn Yarchuk
 organizations:
 - name: 
   url: ""
-role: MSc student
+role: MSc student (University of Guelph)
 social:
 - icon: envelope
   icon_pack: fas
