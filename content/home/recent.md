@@ -45,9 +45,13 @@ subtitle = ""
  css_class = ""
 +++
 
-#### November 13, 2020
+#### January 2020
 
-## I am looking for a PhD student to start this coming January working on white-tailed deer movement and social structure see [here](/files/WTD2020.pdf)
+## Welcome, Kathryn
+
+Kathryn Yarchuk joined the lab as MSc student co-supervised by Dr. Jesse Popp at the University of Guelph. Check out what Kathryn is working on [here](people/). 
+
+___________________________
 
 
 #### October 19, 2020
