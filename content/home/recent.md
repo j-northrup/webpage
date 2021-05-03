@@ -45,7 +45,16 @@ subtitle = ""
  css_class = ""
 +++
 
-#### January 2020
+#### March 2021
+
+## Congratulations Noah and Shilah!
+
+Noah and Shilah successfully finished their honour's theses and wrapped up their undergrad careers! Both will continue working with the group as summmer students before Noah heads to McGill to begin his PhD and Shilah starts her MSc with the Northrup lab! Check out their research [here](people/). 
+
+___________________________
+
+
+#### January 2021
 
 ## Welcome, Kathryn
 
