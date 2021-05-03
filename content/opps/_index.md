@@ -57,5 +57,5 @@ ________________________________________________
 
 ## Opportunities
 
-**I am looking for a PhD student to start this January working on white-tailed deer movement and social structure see [here](/files/WTD2020.pdf)**
+**I will not be taking on any additional students until Fall 2022 at the earliest**
 
