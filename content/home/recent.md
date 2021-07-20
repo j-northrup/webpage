@@ -45,6 +45,30 @@ subtitle = ""
  css_class = ""
 +++
 
+#### July 2020
+
+## Congratulations to Tyler on successfully completing his candidacy exam
+
+Tyler aced his candidacy exam! Find out more about Tyler's research [here](author/tyler-ross/)
+___________________________
+
+
+#### July, 2020
+
+## New lab paper just accepted examining the influence of memory on movement (led by Helena)
+
+Read the paper [here](https://www.frontiersin.org/articles/10.3389/fevo.2021.702818/abstract)
+
+___________________________
+
+#### September, 2020
+
+## Congratulations Brynn!
+
+Brynn received a competitive QE2 scholarship this year. Read about Brynn's research here (author/brynn-mclellan)
+___________________________
+
+
 #### March 2021
 
 ## Congratulations Noah and Shilah!
@@ -60,26 +84,4 @@ ___________________________
 
 Kathryn Yarchuk joined the lab as MSc student co-supervised by Dr. Jesse Popp at the University of Guelph. Check out what Kathryn is working on [here](people/). 
 
-___________________________
-
-
-#### October 19, 2020
-
-## Congratulations to Sarah Haworth on an excellent MSc defense!
-
-Sarah successfully defended her MSc thesis! Find out more about her research [here](author/sarah-haworth/)
-___________________________
-
-
-#### October, 2020
-
-## Webpage is live!
-
-___________________________
-
-#### September, 2020
-
-## Welcome, Brynn and Grace to the lab
-
-Brynn McLellan and Grace Bullington have both joined the lab as MSc students. Check out what they are working on [here](people/). 
 ___________________________
