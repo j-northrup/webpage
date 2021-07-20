@@ -45,7 +45,7 @@ subtitle = ""
  css_class = ""
 +++
 
-#### July 2020
+#### July 2021
 
 ## Congratulations to Tyler on successfully completing his candidacy exam
 
@@ -53,7 +53,7 @@ Tyler aced his candidacy exam! Find out more about Tyler's research [here](autho
 ___________________________
 
 
-#### July, 2020
+#### July, 2021
 
 ## New lab paper just accepted examining the influence of memory on movement (led by Helena)
 
@@ -61,7 +61,7 @@ Read the paper [here](https://www.frontiersin.org/articles/10.3389/fevo.2021.702
 
 ___________________________
 
-#### September, 2020
+#### May, 2021
 
 ## Congratulations Brynn!
 
