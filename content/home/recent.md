@@ -65,7 +65,7 @@ ___________________________
 
 ## Congratulations Brynn!
 
-Brynn received a competitive QE2 scholarship this year. Read about Brynn's research here (author/brynn-mclellan)
+Brynn received a competitive QE2 scholarship this year. Read about Brynn's research [here](author/brynn-mclellan)
 ___________________________
 
 
