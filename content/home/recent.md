@@ -45,6 +45,14 @@ subtitle = ""
  css_class = ""
 +++
 
+#### August 2021
+
+## Welcome Shilah and Stephen!
+
+Shilah LeFeuvre and Stephen Sucharzewski will star their MSc degrees in the lab this month. Check out their research [here](people/)
+___________________________
+
+
 #### July 2021
 
 ## Congratulations to Tyler on successfully completing his candidacy exam
