@@ -21,4 +21,4 @@ superuser: false
 user_groups:
 - Alumni
 ---
-Noah was an NSERC USRA student, conducted his BSc honours thesis and was a summer student with the lab over 2 years. His research used cementum reading techniques to obtain data on age at first reproduction in black bears and assess the environmental and anthropogenic factors affecting the age at first reproduction in Ontario.
+Noah was an NSERC USRA student, conducted his BSc honours thesis, and was a summer student with the lab over 2 years. His research used cementum reading techniques to obtain data on age at first reproduction in black bears and assess the environmental and anthropogenic factors affecting the age at first reproduction in Ontario.
