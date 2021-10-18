@@ -10,7 +10,7 @@ role: Research Scientist, Ontario Ministry of Natural Resources and Forestry
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'
+  link: mailto:joseph.northrup@ontario.ca
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/JMNorthrup
