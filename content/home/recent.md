@@ -45,51 +45,19 @@ subtitle = ""
  css_class = ""
 +++
 
+#### March 2022
+
+## Congratulations Shilah!
+
+Shilah LeFeuvre recently was awarded an Ontario Federation of Angler and Hunters Student Research Grant. Read about the grant [here](https://www.ofah.org/programs/ofah-student-research-grants/) and about Shilah's [research] (author/shilah-lefeuvre/)
+___________________________
+
+
 #### August 2021
 
 ## Welcome Shilah and Stephen!
 
-Shilah LeFeuvre and Stephen Sucharzewski will star their MSc degrees in the lab this month. Check out their research [here](people/)
+Shilah LeFeuvre and Stephen Sucharzewski will start their MSc degrees in the lab this month. Check out their research [here](people/)
 ___________________________
 
 
-#### July 2021
-
-## Congratulations to Tyler on successfully completing his candidacy exam
-
-Tyler aced his candidacy exam! Find out more about Tyler's research [here](author/tyler-ross/)
-___________________________
-
-
-#### July, 2021
-
-## New lab paper just accepted examining the influence of memory on movement (led by Helena)
-
-Read the paper [here](https://www.frontiersin.org/articles/10.3389/fevo.2021.702818/abstract)
-
-___________________________
-
-#### May, 2021
-
-## Congratulations Brynn!
-
-Brynn received a competitive QE2 scholarship this year. Read about Brynn's research [here](author/brynn-mclellan)
-___________________________
-
-
-#### March 2021
-
-## Congratulations Noah and Shilah!
-
-Noah and Shilah successfully finished their honour's theses and wrapped up their undergrad careers! Both will continue working with the group as summmer students before Noah heads to McGill to begin his PhD and Shilah starts her MSc with the Northrup lab! Check out their research [here](people/). 
-
-___________________________
-
-
-#### January 2021
-
-## Welcome, Kathryn
-
-Kathryn Yarchuk joined the lab as MSc student co-supervised by Dr. Jesse Popp at the University of Guelph. Check out what Kathryn is working on [here](people/). 
-
-___________________________
