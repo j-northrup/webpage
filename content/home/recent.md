@@ -49,7 +49,7 @@ subtitle = ""
 
 ## Congratulations Shilah!
 
-Shilah LeFeuvre recently was awarded an Ontario Federation of Angler and Hunters Student Research Grant. Read about the grant [here](https://www.ofah.org/programs/ofah-student-research-grants/) and about Shilah's [research] (author/lefeuvre/)
+Shilah LeFeuvre recently was awarded an Ontario Federation of Angler and Hunters Student Research Grant. Read about the grant [here](https://www.ofah.org/programs/ofah-student-research-grants/) and about Shilah's [research] (https://www.joenorthrup.com/author/shilah-lefeuvre/)
 ___________________________
 
 
