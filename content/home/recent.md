@@ -45,6 +45,15 @@ subtitle = ""
  css_class = ""
 +++
 
+
+#### May 26, 2022
+
+## Congratulations Evan!
+
+Evan Kopsala successfully defended his MSc today. Excellent work! Check out his research [here](author/evan-kopsala/)
+___________________________
+
+
 #### March 2022
 
 ## Congratulations Shilah!
@@ -53,11 +62,5 @@ Shilah LeFeuvre recently was awarded an Ontario Federation of Angler and Hunters
 ___________________________
 
 
-#### August 2021
-
-## Welcome Shilah and Stephen!
-
-Shilah LeFeuvre and Stephen Sucharzewski will start their MSc degrees in the lab this month. Check out their research [here](people/)
-___________________________
 
 
