@@ -45,6 +45,13 @@ subtitle = ""
  css_class = ""
 +++
 
+#### June, 2022
+
+## Welcome Natalie!
+
+Welcome to Natalie Czajka! Natalie will be starting her MSc this fall, co-supervised by Dr. Aaron Shafer. Check out herhis research [here](author/natalie-czajka/)
+___________________________
+
 
 #### May 26, 2022
 
