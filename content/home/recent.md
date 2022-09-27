@@ -45,11 +45,19 @@ subtitle = ""
  css_class = ""
 +++
 
+#### September, 2022
+
+## Congratulations Brynn!
+
+Brynn successfully defended her MSc thesis, passing with flying colors! Incredible job! Learn more about Brynn's research [here](author/brynn-mclellan/)
+___________________________
+
+
 #### June, 2022
 
 ## Welcome Natalie!
 
-Welcome to Natalie Czajka! Natalie will be starting her MSc this fall, co-supervised by Dr. Aaron Shafer. Check out herhis research [here](author/natalie-czajka/)
+Welcome to Natalie Czajka! Natalie will be starting her MSc this fall, co-supervised by Dr. Aaron Shafer. Check out her Natalie's research [here](author/natalie-czajka/)
 ___________________________
 
 
