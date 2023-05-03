@@ -44,6 +44,12 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+#### May, 2023
+
+## Congratulations Kate!
+
+Kate successfully defended her MSc thesis with an amazing defense! Learn more about Kate's research [here](author/kathryn-yarchuk/)
+___________________________
 
 #### September, 2022
 
