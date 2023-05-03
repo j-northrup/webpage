@@ -57,5 +57,5 @@ ________________________________________________
 
 ## Opportunities
 
-**I will not be taking on any additional students until Fall 2022 at the earliest**
+**I will not be taking on any additional students until Fall 2024 at the earliest**
 
