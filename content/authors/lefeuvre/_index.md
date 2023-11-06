@@ -6,7 +6,7 @@ title: Shilah LeFeuvre
 organizations:
 - name: 
   url: ""
-role: MSc student
+role: BSc honours student
 social:
 - icon: envelope
   icon_pack: fas
@@ -19,7 +19,7 @@ social:
 #  link: https://scholar.google.ca/citations?user=Rd7jH7gAAAAJ
 #superuser: false
 user_groups:
-- The Team
+- Alumni
 ---
 
 Using Indigenous Knowledge and Genetics to Study Eastern Wolf Distribution and Behaviour

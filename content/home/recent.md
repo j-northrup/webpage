@@ -44,6 +44,14 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+#### November, 2023
+
+## Congratulations Maegwin!
+
+Maegwin successfully defended her PhD dissertation, passing with flying colors! Learn more about Maegwin's research [here](author/maegwin-bonar/)
+___________________________
+
+
 #### May, 2023
 
 ## Congratulations Kate!
