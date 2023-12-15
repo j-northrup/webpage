@@ -57,5 +57,5 @@ ________________________________________________
 
 ## Opportunities
 
-**I will not be taking on any additional students until Fall 2024 at the earliest**
+**Brent Patterson and I are seekign 2 PhD students to work on a large moose reesarch project. Details [here](files/moose)**
 
