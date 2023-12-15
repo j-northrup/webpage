@@ -57,5 +57,5 @@ ________________________________________________
 
 ## Opportunities
 
-**Brent Patterson and I are seekign 2 PhD students to work on a large moose reesarch project. Details [here](files/moose)**
+**Brent Patterson and I are seeking 2 PhD students to work on a large moose reesarch project. Details [here](files/moose.pdf)**
 
