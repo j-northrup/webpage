@@ -44,6 +44,13 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+#### December, 2023
+
+## Congratulations Grace!
+
+Grace successfully defended her MSc thesis, passing with flying colors! Learn more about Grace's research [here](author/grace-bullington/)
+___________________________
+
 #### November, 2023
 
 ## Congratulations Maegwin!
