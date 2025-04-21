@@ -6,7 +6,7 @@
   "dependencies": {
     "bootstrap": "^4.3.1"
   },
-  "devDependencies": {npm install style-loader --save-dev},
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
