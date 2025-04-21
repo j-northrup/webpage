@@ -44,7 +44,34 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-#### December, 2023
+
+#### April, 2025
+
+## PhD opportunity studying moose 
+
+Brent Patterson and I are looking for a PhD student to work on moose population estimation as part of our multi-year moose project in Northern Ontario. Check [here](opps) for more details. 
+___________________________
+
+#### September, 2024
+
+## Welcome new lab members!
+
+Welcome to Alex Bezzina, Dani Freund and Lauren Cross who all started their PhDs in the lab. Check back soon for updates on their research. 
+___________________________
+
+#### 2023
+
+## Congratulations Nat!
+
+Natalie successfully defended her MSc thesis! Learn more about Steve's research [here](author/natalie-czajka/)
+___________________________
+
+## Congratulations Steve!
+
+Steve successfully defended his MSc thesis Learn more about Steve's research [here](author/stephen-sucharzewski/)
+___________________________
+
+#### 2023
 
 ## Congratulations Grace!
 
