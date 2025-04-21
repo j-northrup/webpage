@@ -71,7 +71,7 @@ ___________________________
 Steve successfully defended his MSc thesis Learn more about Steve's research [here](author/stephen-sucharzewski/)
 ___________________________
 
-#### 2023
+
 
 ## Congratulations Grace!
 
