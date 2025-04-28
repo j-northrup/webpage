@@ -12,8 +12,11 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:joseph.northrup@ontario.ca
+- icon: bluesky
+  icon_pack: fab
+  link: https://bsky.app/profile/jmnorthrup.bsky.social
 - icon: google-scholar
-  icon_pack: ai
+  icon_pack: fab
   link: https://scholar.google.ca/citations?user=Rd7jH7gAAAAJ
 superuser: true
 user_groups:
