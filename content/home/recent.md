@@ -64,7 +64,7 @@ ___________________________
 
 ## Congratulations Nat!
 
-Natalie successfully defended her MSc thesis! Learn more about Steve's research [here](author/natalie-czajka/)
+Natalie successfully defended her MSc thesis! Learn more about Natalie's research [here](author/natalie-czajka/)
 ___________________________
 
 ## Congratulations Steve!
