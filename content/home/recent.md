@@ -47,9 +47,10 @@ subtitle = ""
 
 #### April, 2025
 
-## PhD opportunity studying moose 
+## Welcome Erika! 
 
-Brent Patterson and I are looking for a PhD student to work on moose population estimation as part of our multi-year moose project in Northern Ontario. Check [here](opps) for more details. 
+Welcome to Erika Zimmerman, who just started their MSc with Brent Patterson and I.  
+___________________________
 ___________________________
 
 #### September, 2024
