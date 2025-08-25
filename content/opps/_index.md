@@ -57,5 +57,5 @@ ________________________________________________
 
 ## Opportunities
 
-**Brent Patterson and I are looking for a PhD student to focus on moose population estimation. See more details [here](files/moose_pop.pdf)**
+**Please check back in October, 2025 for more opportunities**
 
