@@ -57,5 +57,5 @@ ________________________________________________
 
 ## Opportunities
 
-**Please check back in October, 2025 for more opportunities**
+**Brent Patterson and I are recruiting a PhD student focused on black bears. See [here] (files/bbear.pdf) for details.**
 
