@@ -57,5 +57,5 @@ ________________________________________________
 
 ## Opportunities
 
-**Brent Patterson and I are recruiting a PhD student focused on black bears. See [here] (files/bbear) for details.**
+**Brent Patterson and I are recruiting a PhD student focused on black bears. See [here](files/bbear.pdf) for details.**
 
