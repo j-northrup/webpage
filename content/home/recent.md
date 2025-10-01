@@ -45,6 +45,12 @@ subtitle = ""
  css_class = ""
 +++
 
+#### October, 2025
+
+Brent Patterson and I are recruiting a PhD student to work on black bears as part of our moose research project. See [here](files/bbear.pdf) for more details and [here](http://www.ontariomooseproject.ca/) for more information on the project. 
+___________________________
+___________________________
+
 #### April, 2025
 
 ## Welcome Erika! 
