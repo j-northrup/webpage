@@ -5,7 +5,7 @@ title: Erika Zimmerman
 organizations:
 - name: 
   url: ""
-role: MSc student
+role: MSc student (Trent University)
 social:
 - icon: envelope
   icon_pack: fas
