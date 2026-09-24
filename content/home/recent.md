@@ -45,9 +45,19 @@ subtitle = ""
  css_class = ""
 +++
 
-#### October, 2025
+#### September, 2026
 
-Brent Patterson and I are recruiting a PhD student to work on black bears as part of our moose research project. See [here](files/bbear.pdf) for more details and [here](http://www.ontariomooseproject.ca/) for more information on the project. 
+## Welcome Erika! 
+
+Welcome to Phil and Daniel, who both just started their PhD projects with Brent Patterson and I
+___________________________
+___________________________
+
+#### May 2026
+
+## Congratulations Dani! 
+
+Dani Freund received an NSERC CGS-D. Congratulations! 
 ___________________________
 ___________________________
 

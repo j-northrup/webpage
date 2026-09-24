@@ -5,7 +5,7 @@ title: Lauren Cross
 organizations:
 - name: 
   url: ""
-role: PhD student (York University)
+role: PhD candidate (York University)
 social:
 - icon: envelope
   icon_pack: fas

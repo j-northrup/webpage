@@ -55,7 +55,5 @@ We also have many opportunities for undergraduates to become involved in researc
 
 ________________________________________________
 
-## Opportunities
 
-**Brent Patterson and I are recruiting a PhD student focused on black bears. See [here](files/bbear.pdf) for details.**
 
