@@ -45,7 +45,7 @@ subtitle = ""
  css_class = ""
 +++
 
-I have ongoing opportunities for motivated graduate students to work on large mammals. Some of these opportunities are field based, with others being primarily data focused. If you find my [research](research/) interesting and would like to pursue a graduate degree (MSc or PhD), [email me](mailto:joe.northrup@gmail.com) with a cover letter explaining why you are interested in doing graduate research with me along with a CV. 
+At this time, I am not taking on any graduate students. Any future opportunities will be posted below. 
 
 My philosophy for mentoring graduate students is one of guided independence. I aim to provide sufficient input, particularly early in a program, for students to build the foundations of a successful project, but feel it is critical for student development to have ownership over the direction of their project. Our research group is growing, and provides ample opportunity for students to both teach and learn when they are part of the group. 
 
