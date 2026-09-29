@@ -47,7 +47,7 @@ subtitle = ""
 
 #### September, 2026
 
-## Welcome Erika! 
+## Welcome Phil and Daniel! 
 
 Welcome to Phil and Daniel, who both just started their PhD projects with Brent Patterson and I
 ___________________________
