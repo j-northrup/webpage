@@ -55,5 +55,7 @@ We also have many opportunities for undergraduates to become involved in researc
 
 ________________________________________________
 
+## Opportunities
 
+**Brent Patterson and I are recruiting a PhD student focused on moose population dynamics. See [here](files/moose_2026.pdf) for details.**
 
